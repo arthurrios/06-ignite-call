@@ -12,11 +12,13 @@
     "@arthurrios-ignite-ui/react": "^2.0.1",
     "@hookform/resolvers": "^3.1.1",
     "@ignite-ui/react": "^2.2.4",
-    "@prisma/client": "^5.0.0",
+    "@prisma/client": "^5.1.0",
+    "@tanstack/react-query": "^4.32.1",
     "@types/node": "20.4.5",
     "@types/react": "18.2.16",
     "@types/react-dom": "18.2.7",
     "axios": "^1.4.0",
+    "dayjs": "^1.11.9",
     "eslint": "8.45.0",
     "eslint-config-next": "^13.4.8",
     "next": "13.4.12",
@@ -33,6 +35,6 @@
     "@rocketseat/eslint-config": "^2.1.0",
     "@types/cookie": "^0.5.1",
     "@types/ignite-ui": "^20.1.2",
-    "prisma": "^5.0.0"
+    "prisma": "^5.1.0"
   }
 }
